@@ -1,0 +1,65 @@
+{
+    "ECE": {
+        "2014": [
+            {
+                "question": "What does CPU stand for?",
+                "options": [
+                    "A. Central Processing Unit",
+                    "B. Central Power Unit",
+                    "C. Control Processing Unit",
+                    "D. Computer Processing Unit"
+                ],
+                "answer": "A. Central Processing Unit"
+            },
+            {
+                "question": "What is the unit of electrical resistance?",
+                "options": [
+                    "A. Ohm",
+                    "B. Volt",
+                    "C. Ampere",
+                    "D. Watt"
+                ],
+                "answer": "A. Ohm"
+            },
+            {
+                "question": "Which semiconductor device is used as a rectifier?",
+                "options": [
+                    "A. Diode",
+                    "B. Transistor",
+                    "C. Capacitor",
+                    "D. Resistor"
+                ],
+                "answer": "A. Diode"
+            },
+            {
+                "question": "What is the main function of an inductor?",
+                "options": [
+                    "A. Store energy in magnetic field",
+                    "B. Store energy in electric field",
+                    "C. Convert AC to DC",
+                    "D. Amplify signals"
+                ],
+                "answer": "A. Store energy in magnetic field"
+            },
+            {
+                "question": "Which component is used to smooth DC output?",
+                "options": [
+                    "A. Capacitor",
+                    "B. Diode",
+                    "C. Inductor",
+                    "D. Transformer"
+                ],
+                "answer": "A. Capacitor"
+            }
+        ],
+        "2015": [],
+        "2016": [],
+        "2017": []
+    },
+    "Mechanical": {"2014": [], "2015": [], "2016": [], "2017": []},
+    "Civil": {"2014": [], "2015": [], "2016": [], "2017": []},
+    "IT": {"2014": [], "2015": [], "2016": [], "2017": []},
+    "Computer CS": {"2014": [], "2015": [], "2016": [], "2017": []},
+    "Software": {"2014": [], "2015": [], "2016": [], "2017": []},
+    "Management": {"2014": [], "2015": [], "2016": [], "2017": []}
+}
